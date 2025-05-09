@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'sinatra'
+gem 'sinatra', '>= 4.0.0'
 gem 'rake'
 gem 'thin'
 gem 'shotgun'
