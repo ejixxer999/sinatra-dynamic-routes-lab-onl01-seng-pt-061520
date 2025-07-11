@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem 'sinatra'
 gem 'rake'
-gem 'thin'
+gem 'thin', '>= 2.0.0'
 gem 'shotgun'
 gem 'require_all'
 
